@@ -1,12 +1,12 @@
 {
-  "name": "markdown-jsx-loader",
+  "name": "markdown-to-jsx-loader",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "theverything",
   "license": "MIT",
   "peerDependencies": {
     "webpack": "^2.0.0",
